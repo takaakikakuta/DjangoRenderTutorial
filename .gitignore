@@ -1,0 +1,7 @@
+myvenv
+db.sqlite
+.vscode
+__psycashe__
+*.pyc
+.DS_Store
+.env
